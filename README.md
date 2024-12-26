@@ -32,8 +32,11 @@ The distances for each planet's orbit are as follows:
 
 ![Main Menu](solarsystem-planetorbits.png)
 
+
 ## Installation
 
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/mdkhademali/solarsystem-planetorbits.git
+
+© mdkhademali
