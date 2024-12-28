@@ -25,6 +25,7 @@ The distances for each planet's orbit are as follows:
 
 ## Requirements
 
+- Python
 - `matplotlib` library
 - `numpy` library
 
